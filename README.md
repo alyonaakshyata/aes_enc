@@ -1,2 +1,2 @@
 # aes_enc
-Tthis includes an implementation of AES encryption using python.
+This includes an implementation of AES encryption using python.
